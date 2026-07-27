@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260727-075731-02rj",
+      "title": "Amunet Starlust",
+      "commanders": [
+        "Amunet Starlust"
+      ],
+      "dateStart": "2026-07-27T11:57:31.000Z",
+      "dateEnd": "2026-07-27T12:00:32.000Z",
+      "dateLabel": "7/27/2026, 7:57:31 AM - 7/27/2026, 8:00:32 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260727-075731-02rj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 6
+      }
+    },
+    {
       "id": "20260727-080405-7agw",
       "title": "Amunet Starlust",
       "commanders": [
