@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260731-055511-9mu6",
+      "title": "Longbows Hot Wife",
+      "commanders": [
+        "Longbows Hot Wife"
+      ],
+      "dateStart": "2026-07-31T09:55:11.000Z",
+      "dateEnd": "2026-07-31T11:31:28.000Z",
+      "dateLabel": "7/31/2026, 5:55:11 AM - 7/31/2026, 7:31:28 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260731-055511-9mu6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260728-054548-35t6",
       "title": "Dumbander In Chief",
       "commanders": [
