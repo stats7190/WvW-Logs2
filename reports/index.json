@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-091158-208u",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-08-02T13:11:58.000Z",
+      "dateEnd": "2026-08-02T14:13:42.000Z",
+      "dateLabel": "8/2/2026, 9:11:58 AM - 8/2/2026, 10:13:42 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260802-091158-208u",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 23,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260802-062805-ti2n",
       "title": "Dumbander In Chief",
       "commanders": [
