@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260804-072828-ftbs",
+      "title": "Leo Alistair",
+      "commanders": [
+        "Leo Alistair"
+      ],
+      "guild": {
+        "id": "149BDE3E-32A2-EA11-81AA-A77AA130EAB8",
+        "name": "Resistànce",
+        "tag": "RE"
+      },
+      "dateStart": "2026-08-04T11:28:28.000Z",
+      "dateEnd": "2026-08-04T11:45:30.000Z",
+      "dateLabel": "8/4/2026, 7:28:28 AM - 8/4/2026, 7:45:30 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260804-072828-ftbs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260802-091158-208u",
       "title": "Kingofmesmers",
       "commanders": [
