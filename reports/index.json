@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260805-091431-qht3",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-08-05T13:14:31.000Z",
+      "dateEnd": "2026-08-05T14:34:33.000Z",
+      "dateLabel": "8/5/2026, 9:14:31 AM - 8/5/2026, 10:34:33 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260805-091431-qht3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260804-072828-ftbs",
       "title": "Leo Alistair",
       "commanders": [
