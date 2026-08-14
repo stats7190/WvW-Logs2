@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260814-093802-jp3p",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-14T13:38:02.000Z",
+      "dateEnd": "2026-08-14T14:25:53.000Z",
+      "dateLabel": "8/14/2026, 9:38:02 AM - 8/14/2026, 10:25:53 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260814-093802-jp3p",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 27,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260810-092612-8dlw",
       "title": "Kingofmesmers",
       "commanders": [
