@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-101908-pu1j",
+      "title": "Follow This Tag",
+      "commanders": [
+        "Follow This Tag"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-08-22T14:19:08.000Z",
+      "dateEnd": "2026-08-22T14:55:15.000Z",
+      "dateLabel": "8/22/2026, 10:19:08 AM - 8/22/2026, 10:55:15 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260822-101908-pu1j",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 58,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260814-093802-jp3p",
       "title": "Kingofmesmers",
       "commanders": [
