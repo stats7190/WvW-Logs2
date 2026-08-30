@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-071908-5k1l",
+      "title": "Dumbander In Chief",
+      "commanders": [
+        "Dumbander In Chief"
+      ],
+      "guild": {
+        "id": "B19B6AAF-F574-EF11-81AB-F50023EE1BF3",
+        "name": "Average Intelligence",
+        "tag": "DUMB"
+      },
+      "dateStart": "2026-08-30T11:19:08.000Z",
+      "dateEnd": "2026-08-30T11:26:25.162Z",
+      "dateLabel": "8/30/2026, 7:19:08 AM - 8/30/2026, 7:26:25 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260830-071908-5k1l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260829-101706-64ku",
       "title": "Kingofmesmers",
       "commanders": [
