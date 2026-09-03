@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260903-090655-8i5y",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-09-03T13:06:55.000Z",
+      "dateEnd": "2026-09-03T13:59:55.750Z",
+      "dateLabel": "9/3/2026, 9:06:55 AM - 9/3/2026, 9:59:55 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260903-090655-8i5y",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 20,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260903-100711-mv91",
       "title": "Kingofmesmers",
       "commanders": [
