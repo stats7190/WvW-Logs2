@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260907-094935-fqwc",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-09-07T13:49:35.000Z",
+      "dateEnd": "2026-09-07T14:33:21.723Z",
+      "dateLabel": "9/7/2026, 9:49:35 AM - 9/7/2026, 10:33:21 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260907-094935-fqwc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260907-094935-1dae",
       "title": "Kingofmesmers",
       "commanders": [
