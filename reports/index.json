@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-064850-jwxo",
+      "title": "Mauri The Great",
+      "commanders": [
+        "Mauri The Great"
+      ],
+      "guild": {
+        "id": "66F6F76F-721C-EF11-8465-02315AB41281",
+        "name": "Shadows Of Rall",
+        "tag": "SoR"
+      },
+      "dateStart": "2026-09-10T10:48:50.000Z",
+      "dateEnd": "2026-09-10T10:59:41.449Z",
+      "dateLabel": "9/10/2026, 6:48:50 AM - 9/10/2026, 6:59:41 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260910-064850-jwxo",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 4,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260909-091202-qepv",
       "title": "Kingofmesmers",
       "commanders": [
