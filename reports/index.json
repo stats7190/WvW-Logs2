@@ -1,669 +1,702 @@
-[
-  {
-    "id": "20260910-064850-k0sk",
-    "title": "Mauri The Great",
-    "commanders": [
-      "Mauri The Great"
-    ],
-    "guild": {
-      "id": "66F6F76F-721C-EF11-8465-02315AB41281",
-      "name": "Shadows Of Rall",
-      "tag": "SoR"
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260911-091141-62qz",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-09-11T13:11:41.000Z",
+      "dateEnd": "2026-09-11T13:53:27.902Z",
+      "dateLabel": "9/11/2026, 9:11:41 AM - 9/11/2026, 9:53:27 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260911-091141-62qz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 28,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 17
+      }
     },
-    "dateStart": "2026-09-10T10:48:50.000Z",
-    "dateEnd": "2026-09-10T10:59:41.449Z",
-    "dateLabel": "9/10/2026, 6:48:50 AM - 9/10/2026, 6:59:41 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260910-064850-k0sk",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 4,
-          "color": "#64748b"
-        }
+    {
+      "id": "20260910-064850-k0sk",
+      "title": "Mauri The Great",
+      "commanders": [
+        "Mauri The Great"
       ],
-      "avgSquadSize": 18,
-      "avgEnemySize": 14
-    }
-  },
-  {
-    "id": "20260909-091202-qepv",
-    "title": "Kingofmesmers",
-    "commanders": [
-      "Kingofmesmers"
-    ],
-    "guild": {
-      "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
-      "name": "Cärrot Färm",
-      "tag": "Buni"
+      "guild": {
+        "id": "66F6F76F-721C-EF11-8465-02315AB41281",
+        "name": "Shadows Of Rall",
+        "tag": "SoR"
+      },
+      "dateStart": "2026-09-10T10:48:50.000Z",
+      "dateEnd": "2026-09-10T10:59:41.449Z",
+      "dateLabel": "9/10/2026, 6:48:50 AM - 9/10/2026, 6:59:41 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260910-064850-k0sk",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 4,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 14
+      }
     },
-    "dateStart": "2026-09-09T13:12:02.000Z",
-    "dateEnd": "2026-09-09T13:56:53.697Z",
-    "dateLabel": "9/9/2026, 9:12:02 AM - 9/9/2026, 9:56:53 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260909-091202-qepv",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 27,
-          "color": "#64748b"
-        }
+    {
+      "id": "20260909-091202-qepv",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
       ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 20
-    }
-  },
-  {
-    "id": "20260907-094935-fqwc",
-    "title": "Kingofmesmers",
-    "commanders": [
-      "Kingofmesmers"
-    ],
-    "guild": {
-      "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
-      "name": "Cärrot Färm",
-      "tag": "Buni"
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-09-09T13:12:02.000Z",
+      "dateEnd": "2026-09-09T13:56:53.697Z",
+      "dateLabel": "9/9/2026, 9:12:02 AM - 9/9/2026, 9:56:53 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260909-091202-qepv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 27,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
     },
-    "dateStart": "2026-09-07T13:49:35.000Z",
-    "dateEnd": "2026-09-07T14:33:21.723Z",
-    "dateLabel": "9/7/2026, 9:49:35 AM - 9/7/2026, 10:33:21 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260907-094935-fqwc",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 13,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260907-094935-fqwc",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 28
-    }
-  },
-  {
-    "id": "20260907-094935-1dae",
-    "title": "Kingofmesmers",
-    "commanders": [
-      "Kingofmesmers"
-    ],
-    "guild": {
-      "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
-      "name": "Cärrot Färm",
-      "tag": "Buni"
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-09-07T13:49:35.000Z",
+      "dateEnd": "2026-09-07T14:33:21.723Z",
+      "dateLabel": "9/7/2026, 9:49:35 AM - 9/7/2026, 10:33:21 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260907-094935-fqwc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 28
+      }
     },
-    "dateStart": "2026-09-07T13:49:35.000Z",
-    "dateEnd": "2026-09-07T14:35:15.187Z",
-    "dateLabel": "9/7/2026, 9:49:35 AM - 9/7/2026, 10:35:15 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260907-094935-1dae",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 14,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260907-094935-1dae",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 28
-    }
-  },
-  {
-    "id": "20260903-090655-8i5y",
-    "title": "Kingofmesmers",
-    "commanders": [
-      "Kingofmesmers"
-    ],
-    "guild": {
-      "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
-      "name": "Cärrot Färm",
-      "tag": "Buni"
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-09-07T13:49:35.000Z",
+      "dateEnd": "2026-09-07T14:35:15.187Z",
+      "dateLabel": "9/7/2026, 9:49:35 AM - 9/7/2026, 10:35:15 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260907-094935-1dae",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 28
+      }
     },
-    "dateStart": "2026-09-03T13:06:55.000Z",
-    "dateEnd": "2026-09-03T13:59:55.750Z",
-    "dateLabel": "9/3/2026, 9:06:55 AM - 9/3/2026, 9:59:55 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260903-090655-8i5y",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 20,
-          "color": "#64748b"
-        }
+    {
+      "id": "20260903-090655-8i5y",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
       ],
-      "avgSquadSize": 21,
-      "avgEnemySize": 21
-    }
-  },
-  {
-    "id": "20260903-100711-mv91",
-    "title": "Kingofmesmers",
-    "commanders": [
-      "Kingofmesmers"
-    ],
-    "guild": {
-      "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
-      "name": "Cärrot Färm",
-      "tag": "Buni"
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-09-03T13:06:55.000Z",
+      "dateEnd": "2026-09-03T13:59:55.750Z",
+      "dateLabel": "9/3/2026, 9:06:55 AM - 9/3/2026, 9:59:55 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260903-090655-8i5y",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 20,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 21
+      }
     },
-    "dateStart": "2026-09-03T14:07:11.000Z",
-    "dateEnd": "2026-09-03T14:31:53.503Z",
-    "dateLabel": "9/3/2026, 10:07:11 AM - 9/3/2026, 10:31:53 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260903-100711-mv91",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 12,
-          "color": "#64748b"
-        }
+    {
+      "id": "20260903-100711-mv91",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
       ],
-      "avgSquadSize": 19,
-      "avgEnemySize": 16
-    }
-  },
-  {
-    "id": "20260903-084852-u9om",
-    "title": "Kingofmesmers",
-    "commanders": [
-      "Kingofmesmers"
-    ],
-    "guild": {
-      "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
-      "name": "Cärrot Färm",
-      "tag": "Buni"
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-09-03T14:07:11.000Z",
+      "dateEnd": "2026-09-03T14:31:53.503Z",
+      "dateLabel": "9/3/2026, 10:07:11 AM - 9/3/2026, 10:31:53 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260903-100711-mv91",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 16
+      }
     },
-    "dateStart": "2026-09-03T12:48:52.000Z",
-    "dateEnd": "2026-09-03T13:31:56.339Z",
-    "dateLabel": "9/3/2026, 8:48:52 AM - 9/3/2026, 9:31:56 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260903-084852-u9om",
-    "summary": {
-      "borderlandsPct": 0.08,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 23,
-          "color": "#64748b"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 2,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260903-084852-u9om",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
       ],
-      "avgSquadSize": 18,
-      "avgEnemySize": 15
-    }
-  },
-  {
-    "id": "20260903-054031-oftx",
-    "title": "Dumbander In Chief",
-    "commanders": [
-      "Dumbander In Chief"
-    ],
-    "guild": {
-      "id": "B19B6AAF-F574-EF11-81AB-F50023EE1BF3",
-      "name": "Average Intelligence",
-      "tag": "DUMB"
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-09-03T12:48:52.000Z",
+      "dateEnd": "2026-09-03T13:31:56.339Z",
+      "dateLabel": "9/3/2026, 8:48:52 AM - 9/3/2026, 9:31:56 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260903-084852-u9om",
+      "summary": {
+        "borderlandsPct": 0.08,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 23,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 15
+      }
     },
-    "dateStart": "2026-09-03T09:40:31.000Z",
-    "dateEnd": "2026-09-03T10:12:19.479Z",
-    "dateLabel": "9/3/2026, 5:40:31 AM - 9/3/2026, 6:12:19 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260903-054031-oftx",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 7,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260903-054031-oftx",
+      "title": "Dumbander In Chief",
+      "commanders": [
+        "Dumbander In Chief"
       ],
-      "avgSquadSize": 15,
-      "avgEnemySize": 51
-    }
-  },
-  {
-    "id": "20260903-054031-f1dh",
-    "title": "Dumbander In Chief",
-    "commanders": [
-      "Dumbander In Chief"
-    ],
-    "guild": {
-      "id": "B19B6AAF-F574-EF11-81AB-F50023EE1BF3",
-      "name": "Average Intelligence",
-      "tag": "DUMB"
+      "guild": {
+        "id": "B19B6AAF-F574-EF11-81AB-F50023EE1BF3",
+        "name": "Average Intelligence",
+        "tag": "DUMB"
+      },
+      "dateStart": "2026-09-03T09:40:31.000Z",
+      "dateEnd": "2026-09-03T10:12:19.479Z",
+      "dateLabel": "9/3/2026, 5:40:31 AM - 9/3/2026, 6:12:19 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260903-054031-oftx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 51
+      }
     },
-    "dateStart": "2026-09-03T09:40:31.000Z",
-    "dateEnd": "2026-09-03T10:12:19.479Z",
-    "dateLabel": "9/3/2026, 5:40:31 AM - 9/3/2026, 6:12:19 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260903-054031-f1dh",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 7,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260903-054031-f1dh",
+      "title": "Dumbander In Chief",
+      "commanders": [
+        "Dumbander In Chief"
       ],
-      "avgSquadSize": 16,
-      "avgEnemySize": 51
-    }
-  },
-  {
-    "id": "20260830-071908-5k1l",
-    "title": "Dumbander In Chief",
-    "commanders": [
-      "Dumbander In Chief"
-    ],
-    "guild": {
-      "id": "B19B6AAF-F574-EF11-81AB-F50023EE1BF3",
-      "name": "Average Intelligence",
-      "tag": "DUMB"
+      "guild": {
+        "id": "B19B6AAF-F574-EF11-81AB-F50023EE1BF3",
+        "name": "Average Intelligence",
+        "tag": "DUMB"
+      },
+      "dateStart": "2026-09-03T09:40:31.000Z",
+      "dateEnd": "2026-09-03T10:12:19.479Z",
+      "dateLabel": "9/3/2026, 5:40:31 AM - 9/3/2026, 6:12:19 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260903-054031-f1dh",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 51
+      }
     },
-    "dateStart": "2026-08-30T11:19:08.000Z",
-    "dateEnd": "2026-08-30T11:26:25.162Z",
-    "dateLabel": "8/30/2026, 7:19:08 AM - 8/30/2026, 7:26:25 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260830-071908-5k1l",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 3,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260830-071908-5k1l",
+      "title": "Dumbander In Chief",
+      "commanders": [
+        "Dumbander In Chief"
       ],
-      "avgSquadSize": 15,
-      "avgEnemySize": 19
-    }
-  },
-  {
-    "id": "20260829-101706-64ku",
-    "title": "Kingofmesmers",
-    "commanders": [
-      "Kingofmesmers"
-    ],
-    "guild": {
-      "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
-      "name": "Cärrot Färm",
-      "tag": "Buni"
+      "guild": {
+        "id": "B19B6AAF-F574-EF11-81AB-F50023EE1BF3",
+        "name": "Average Intelligence",
+        "tag": "DUMB"
+      },
+      "dateStart": "2026-08-30T11:19:08.000Z",
+      "dateEnd": "2026-08-30T11:26:25.162Z",
+      "dateLabel": "8/30/2026, 7:19:08 AM - 8/30/2026, 7:26:25 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260830-071908-5k1l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 19
+      }
     },
-    "dateStart": "2026-08-29T14:17:06.000Z",
-    "dateEnd": "2026-08-29T14:30:35.003Z",
-    "dateLabel": "8/29/2026, 10:17:06 AM - 8/29/2026, 10:30:35 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260829-101706-64ku",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 4,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260829-101706-64ku",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 31
-    }
-  },
-  {
-    "id": "20260824-053657-g9as",
-    "title": "Dumbander In Chief",
-    "commanders": [
-      "Dumbander In Chief"
-    ],
-    "guild": {
-      "id": "B19B6AAF-F574-EF11-81AB-F50023EE1BF3",
-      "name": "Average Intelligence",
-      "tag": "DUMB"
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-08-29T14:17:06.000Z",
+      "dateEnd": "2026-08-29T14:30:35.003Z",
+      "dateLabel": "8/29/2026, 10:17:06 AM - 8/29/2026, 10:30:35 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260829-101706-64ku",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 31
+      }
     },
-    "dateStart": "2026-08-24T09:36:57.000Z",
-    "dateEnd": "2026-08-24T10:01:59.288Z",
-    "dateLabel": "8/24/2026, 5:36:57 AM - 8/24/2026, 6:01:59 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260824-053657-g9as",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 36,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260824-053657-g9as",
+      "title": "Dumbander In Chief",
+      "commanders": [
+        "Dumbander In Chief"
       ],
-      "avgSquadSize": 22,
-      "avgEnemySize": 26
-    }
-  },
-  {
-    "id": "20260822-101908-pu1j",
-    "title": "Follow This Tag",
-    "commanders": [
-      "Follow This Tag"
-    ],
-    "guild": {
-      "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
-      "name": "Cärrot Färm",
-      "tag": "Buni"
+      "guild": {
+        "id": "B19B6AAF-F574-EF11-81AB-F50023EE1BF3",
+        "name": "Average Intelligence",
+        "tag": "DUMB"
+      },
+      "dateStart": "2026-08-24T09:36:57.000Z",
+      "dateEnd": "2026-08-24T10:01:59.288Z",
+      "dateLabel": "8/24/2026, 5:36:57 AM - 8/24/2026, 6:01:59 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260824-053657-g9as",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 26
+      }
     },
-    "dateStart": "2026-08-22T14:19:08.000Z",
-    "dateEnd": "2026-08-22T14:55:15.000Z",
-    "dateLabel": "8/22/2026, 10:19:08 AM - 8/22/2026, 10:55:15 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260822-101908-pu1j",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 58,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260822-101908-pu1j",
+      "title": "Follow This Tag",
+      "commanders": [
+        "Follow This Tag"
       ],
-      "avgSquadSize": 21,
-      "avgEnemySize": 27
-    }
-  },
-  {
-    "id": "20260814-093802-jp3p",
-    "title": "Kingofmesmers",
-    "commanders": [
-      "Kingofmesmers"
-    ],
-    "guild": {
-      "id": "00000000-0000-0000-0000-000000000000",
-      "name": null,
-      "tag": null
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-08-22T14:19:08.000Z",
+      "dateEnd": "2026-08-22T14:55:15.000Z",
+      "dateLabel": "8/22/2026, 10:19:08 AM - 8/22/2026, 10:55:15 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260822-101908-pu1j",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 58,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 27
+      }
     },
-    "dateStart": "2026-08-14T13:38:02.000Z",
-    "dateEnd": "2026-08-14T14:25:53.000Z",
-    "dateLabel": "8/14/2026, 9:38:02 AM - 8/14/2026, 10:25:53 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260814-093802-jp3p",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Obsidian Sanctum",
-          "value": 27,
-          "color": "#64748b"
-        }
+    {
+      "id": "20260814-093802-jp3p",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
       ],
-      "avgSquadSize": 15,
-      "avgEnemySize": 15
-    }
-  },
-  {
-    "id": "20260810-092612-8dlw",
-    "title": "Kingofmesmers",
-    "commanders": [
-      "Kingofmesmers"
-    ],
-    "guild": {
-      "id": "00000000-0000-0000-0000-000000000000",
-      "name": null,
-      "tag": null
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-14T13:38:02.000Z",
+      "dateEnd": "2026-08-14T14:25:53.000Z",
+      "dateLabel": "8/14/2026, 9:38:02 AM - 8/14/2026, 10:25:53 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260814-093802-jp3p",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 27,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
     },
-    "dateStart": "2026-08-10T13:26:12.000Z",
-    "dateEnd": "2026-08-10T14:27:49.000Z",
-    "dateLabel": "8/10/2026, 9:26:12 AM - 8/10/2026, 10:27:49 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260810-092612-8dlw",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 16,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260810-092612-8dlw",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 47
-    }
-  },
-  {
-    "id": "20260808-060020-1ytj",
-    "title": "Dumbander In Chief",
-    "commanders": [
-      "Dumbander In Chief"
-    ],
-    "guild": {
-      "id": "B19B6AAF-F574-EF11-81AB-F50023EE1BF3",
-      "name": "Average Intelligence",
-      "tag": "DUMB"
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-10T13:26:12.000Z",
+      "dateEnd": "2026-08-10T14:27:49.000Z",
+      "dateLabel": "8/10/2026, 9:26:12 AM - 8/10/2026, 10:27:49 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260810-092612-8dlw",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 47
+      }
     },
-    "dateStart": "2026-08-08T10:00:20.000Z",
-    "dateEnd": "2026-08-08T11:32:29.000Z",
-    "dateLabel": "8/8/2026, 6:00:20 AM - 8/8/2026, 7:32:29 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260808-060020-1ytj",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 13,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260808-060020-1ytj",
+      "title": "Dumbander In Chief",
+      "commanders": [
+        "Dumbander In Chief"
       ],
-      "avgSquadSize": 24,
-      "avgEnemySize": 23
-    }
-  },
-  {
-    "id": "20260805-091431-qht3",
-    "title": "Kingofmesmers",
-    "commanders": [
-      "Kingofmesmers"
-    ],
-    "guild": {
-      "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
-      "name": "Cärrot Färm",
-      "tag": "Buni"
+      "guild": {
+        "id": "B19B6AAF-F574-EF11-81AB-F50023EE1BF3",
+        "name": "Average Intelligence",
+        "tag": "DUMB"
+      },
+      "dateStart": "2026-08-08T10:00:20.000Z",
+      "dateEnd": "2026-08-08T11:32:29.000Z",
+      "dateLabel": "8/8/2026, 6:00:20 AM - 8/8/2026, 7:32:29 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260808-060020-1ytj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 23
+      }
     },
-    "dateStart": "2026-08-05T13:14:31.000Z",
-    "dateEnd": "2026-08-05T14:34:33.000Z",
-    "dateLabel": "8/5/2026, 9:14:31 AM - 8/5/2026, 10:34:33 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260805-091431-qht3",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 11,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260805-091431-qht3",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
       ],
-      "avgSquadSize": 33,
-      "avgEnemySize": 53
-    }
-  },
-  {
-    "id": "20260804-072828-ftbs",
-    "title": "Leo Alistair",
-    "commanders": [
-      "Leo Alistair"
-    ],
-    "guild": {
-      "id": "149BDE3E-32A2-EA11-81AA-A77AA130EAB8",
-      "name": "Resistànce",
-      "tag": "RE"
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-08-05T13:14:31.000Z",
+      "dateEnd": "2026-08-05T14:34:33.000Z",
+      "dateLabel": "8/5/2026, 9:14:31 AM - 8/5/2026, 10:34:33 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260805-091431-qht3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 53
+      }
     },
-    "dateStart": "2026-08-04T11:28:28.000Z",
-    "dateEnd": "2026-08-04T11:45:30.000Z",
-    "dateLabel": "8/4/2026, 7:28:28 AM - 8/4/2026, 7:45:30 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260804-072828-ftbs",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 5,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260804-072828-ftbs",
+      "title": "Leo Alistair",
+      "commanders": [
+        "Leo Alistair"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 18
-    }
-  },
-  {
-    "id": "20260802-091158-208u",
-    "title": "Kingofmesmers",
-    "commanders": [
-      "Kingofmesmers"
-    ],
-    "guild": {
-      "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
-      "name": "Cärrot Färm",
-      "tag": "Buni"
+      "guild": {
+        "id": "149BDE3E-32A2-EA11-81AA-A77AA130EAB8",
+        "name": "Resistànce",
+        "tag": "RE"
+      },
+      "dateStart": "2026-08-04T11:28:28.000Z",
+      "dateEnd": "2026-08-04T11:45:30.000Z",
+      "dateLabel": "8/4/2026, 7:28:28 AM - 8/4/2026, 7:45:30 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260804-072828-ftbs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 18
+      }
     },
-    "dateStart": "2026-08-02T13:11:58.000Z",
-    "dateEnd": "2026-08-02T14:13:42.000Z",
-    "dateLabel": "8/2/2026, 9:11:58 AM - 8/2/2026, 10:13:42 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260802-091158-208u",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 23,
-          "color": "#64748b"
-        }
+    {
+      "id": "20260802-091158-208u",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
       ],
-      "avgSquadSize": 15,
-      "avgEnemySize": 15
-    }
-  },
-  {
-    "id": "20260802-062805-ti2n",
-    "title": "Dumbander In Chief",
-    "commanders": [
-      "Dumbander In Chief"
-    ],
-    "guild": {
-      "id": "B19B6AAF-F574-EF11-81AB-F50023EE1BF3",
-      "name": "Average Intelligence",
-      "tag": "DUMB"
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-08-02T13:11:58.000Z",
+      "dateEnd": "2026-08-02T14:13:42.000Z",
+      "dateLabel": "8/2/2026, 9:11:58 AM - 8/2/2026, 10:13:42 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260802-091158-208u",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 23,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
     },
-    "dateStart": "2026-08-02T10:28:05.000Z",
-    "dateEnd": "2026-08-02T11:27:55.000Z",
-    "dateLabel": "8/2/2026, 6:28:05 AM - 8/2/2026, 7:27:55 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260802-062805-ti2n",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 11,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260802-062805-ti2n",
+      "title": "Dumbander In Chief",
+      "commanders": [
+        "Dumbander In Chief"
       ],
-      "avgSquadSize": 29,
-      "avgEnemySize": 72
-    }
-  },
-  {
-    "id": "20260801-054340-l0zu",
-    "title": "Dumbander In Chief",
-    "commanders": [
-      "Dumbander In Chief"
-    ],
-    "dateStart": "2026-08-01T09:43:40.000Z",
-    "dateEnd": "2026-08-01T10:42:34.000Z",
-    "dateLabel": "8/1/2026, 5:43:40 AM - 8/1/2026, 6:42:34 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260801-054340-l0zu",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 30,
-          "color": "#ffffff"
-        }
+      "guild": {
+        "id": "B19B6AAF-F574-EF11-81AB-F50023EE1BF3",
+        "name": "Average Intelligence",
+        "tag": "DUMB"
+      },
+      "dateStart": "2026-08-02T10:28:05.000Z",
+      "dateEnd": "2026-08-02T11:27:55.000Z",
+      "dateLabel": "8/2/2026, 6:28:05 AM - 8/2/2026, 7:27:55 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260802-062805-ti2n",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 72
+      }
+    },
+    {
+      "id": "20260801-054340-l0zu",
+      "title": "Dumbander In Chief",
+      "commanders": [
+        "Dumbander In Chief"
       ],
-      "avgSquadSize": 27,
-      "avgEnemySize": 51
-    }
-  },
-  {
-    "id": "20260731-055511-9mu6",
-    "title": "Longbows Hot Wife",
-    "commanders": [
-      "Longbows Hot Wife"
-    ],
-    "dateStart": "2026-07-31T09:55:11.000Z",
-    "dateEnd": "2026-07-31T11:31:28.000Z",
-    "dateLabel": "7/31/2026, 5:55:11 AM - 7/31/2026, 7:31:28 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260731-055511-9mu6",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 13,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-08-01T09:43:40.000Z",
+      "dateEnd": "2026-08-01T10:42:34.000Z",
+      "dateLabel": "8/1/2026, 5:43:40 AM - 8/1/2026, 6:42:34 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260801-054340-l0zu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 51
+      }
+    },
+    {
+      "id": "20260731-055511-9mu6",
+      "title": "Longbows Hot Wife",
+      "commanders": [
+        "Longbows Hot Wife"
       ],
-      "avgSquadSize": 24,
-      "avgEnemySize": 36
-    }
-  },
-  {
-    "id": "20260728-054548-35t6",
-    "title": "Dumbander In Chief",
-    "commanders": [
-      "Dumbander In Chief"
-    ],
-    "dateStart": "2026-07-28T09:45:48.000Z",
-    "dateEnd": "2026-07-28T11:04:18.000Z",
-    "dateLabel": "7/28/2026, 5:45:48 AM - 7/28/2026, 7:04:18 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260728-054548-35t6",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 15,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-07-31T09:55:11.000Z",
+      "dateEnd": "2026-07-31T11:31:28.000Z",
+      "dateLabel": "7/31/2026, 5:55:11 AM - 7/31/2026, 7:31:28 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260731-055511-9mu6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 36
+      }
+    },
+    {
+      "id": "20260728-054548-35t6",
+      "title": "Dumbander In Chief",
+      "commanders": [
+        "Dumbander In Chief"
       ],
-      "avgSquadSize": 21,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260727-085624-lybt",
-    "title": "Kingofcharrs",
-    "commanders": [
-      "Kingofcharrs"
-    ],
-    "dateStart": "2026-07-27T12:56:24.000Z",
-    "dateEnd": "2026-07-27T14:36:00.000Z",
-    "dateLabel": "7/27/2026, 8:56:24 AM - 7/27/2026, 10:36:00 AM",
-    "url": "https://stats7190.github.io/WvW-Logs2/?report=20260727-085624-lybt",
-    "summary": {
-      "borderlandsPct": 0.08695652173913043,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 21,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-07-28T09:45:48.000Z",
+      "dateEnd": "2026-07-28T11:04:18.000Z",
+      "dateLabel": "7/28/2026, 5:45:48 AM - 7/28/2026, 7:04:18 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260728-054548-35t6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 48
+      }
+    },
+    {
+      "id": "20260727-085624-lybt",
+      "title": "Kingofcharrs",
+      "commanders": [
+        "Kingofcharrs"
       ],
-      "avgSquadSize": 22,
-      "avgEnemySize": 45
+      "dateStart": "2026-07-27T12:56:24.000Z",
+      "dateEnd": "2026-07-27T14:36:00.000Z",
+      "dateLabel": "7/27/2026, 8:56:24 AM - 7/27/2026, 10:36:00 AM",
+      "url": "https://stats7190.github.io/WvW-Logs2/?report=20260727-085624-lybt",
+      "summary": {
+        "borderlandsPct": 0.08695652173913043,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 45
+      }
     }
-  }
-]
+  ]
+}
